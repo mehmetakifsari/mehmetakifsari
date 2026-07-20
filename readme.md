@@ -229,8 +229,8 @@ Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — kod
 
 ## 📊 GitHub İstatistiklerim
 
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="languages" />
+<img height="180" src="https://github-readme-stats-visu-panel.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="stats" />
+<img height="180" src="https://github-readme-stats-visu-panel.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&langs_count=8" alt="top langs" />
 
 <br/>
 
@@ -239,10 +239,6 @@ Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — kod
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetakifsari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=ffffff" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehmetakifsari&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
