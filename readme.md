@@ -202,7 +202,7 @@ Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — kod
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifsari&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mehmetakifsari&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="streak" />
 
 <br/>
 
