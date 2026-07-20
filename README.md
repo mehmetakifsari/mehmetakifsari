@@ -1,0 +1,220 @@
+<div align="center">
+
+# Merhaba, ben Mehmet Akif Sarı 👋
+
+### Process Automation • Internal Tools • WordPress • DevOps
+
+Manuel iş süreçlerini otomasyonlara, şirket içi araçlara ve sürdürülebilir dijital sistemlere dönüştürüyorum.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Process+Automation+Developer;Internal+Tools+Builder;WordPress+%26+DevOps+Specialist;n8n+Workflow+Developer;Turning+manual+work+into+digital+workflows" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 Hakkımda
+
+Operasyon ekiplerinin günlük iş yükünü azaltan, veri kaybı riskini önleyen ve tekrarlayan süreçleri otomatikleştiren çözümler geliştiriyorum.
+
+Özellikle aşağıdaki alanlarda çalışıyorum:
+
+* İş süreçleri ve operasyon otomasyonu
+* Şirket içi yönetim panelleri
+* WordPress tema ve eklenti geliştirme
+* n8n tabanlı iş akışları
+* Docker ve Coolify altyapıları
+* GitHub Actions ile otomatik dağıtım
+* PDF, Excel, XML ve dosya işleme otomasyonları
+* REST API ve WhatsApp entegrasyonları
+* Python ve PowerShell yardımcı araçları
+
+```text
+Manuel Süreç
+     ↓
+Süreç Analizi
+     ↓
+Otomasyon Tasarımı
+     ↓
+API / n8n / Python / PowerShell
+     ↓
+Ölçülebilir ve Sürdürülebilir Sistem
+```
+
+---
+
+## 🎯 Güncel Odak Alanlarım
+
+```yaml
+name: Mehmet Akif Sarı
+location: İstanbul, Türkiye
+
+focus:
+  - Process Automation
+  - Internal Tools
+  - Business Process Optimization
+  - WordPress Development
+  - DevOps and Self-Hosted Systems
+
+currently_working_with:
+  - n8n
+  - Docker
+  - Coolify
+  - GitHub Actions
+  - WordPress
+  - Python
+  - PowerShell
+  - REST APIs
+```
+
+---
+
+## 🛠️ Teknolojiler ve Araçlar
+
+### Otomasyon ve Yazılım
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,php,js,nodejs,bash" alt="Programming Technologies" />
+</p>
+
+### Web ve Veri
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,mysql,html,css,nginx,cloudflare" alt="Web Technologies" />
+</p>
+
+### DevOps ve Altyapı
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,github,vscode" alt="DevOps Technologies" />
+</p>
+
+### Sık Kullandığım Sistemler
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Coolify-Self_Hosted-6B5CF6?style=for-the-badge" alt="Coolify" />
+  <img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Automation" />
+  <img src="https://img.shields.io/badge/WhatsApp-API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
+</p>
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+### Branch Management Image Upload System
+
+Şube ve servis operasyonlarında fotoğraf, video ve diğer iş emri verilerinin merkezi olarak yönetilmesini sağlayan dosya yükleme sistemi.
+
+[Projeyi incele](https://github.com/mehmetakifsari/branch-management-image-upload-system)
+
+---
+
+### Analysis of Fuel Receipts
+
+Akaryakıt fişlerinden veri çıkarılması, sınıflandırılması ve analiz edilmesi amacıyla geliştirilen otomasyon projesi.
+
+[Projeyi incele](https://github.com/mehmetakifsari/Analysis-of-fuel-receipts)
+
+---
+
+### YouTube Shorts Pipeline
+
+Kısa video içeriklerinin hazırlanması, işlenmesi ve yayın süreçlerinin otomatikleştirilmesine yönelik içerik üretim hattı.
+
+[Projeyi incele](https://github.com/mehmetakifsari/youtube-shorts-pipeline)
+
+---
+
+### IP Log Summary
+
+Sunucu ve uygulama loglarındaki IP verilerini analiz ederek daha okunabilir özetler oluşturan yardımcı araç.
+
+[Projeyi incele](https://github.com/mehmetakifsari/ip-log-summary)
+
+---
+
+### URL Rotation Systems
+
+Bağlantıların belirlenen kurallara göre yönlendirilmesi ve dönüşümlü olarak dağıtılması için geliştirilen URL yönetim sistemleri.
+
+[URL Rotater Systems](https://github.com/mehmetakifsari/url-rotater-systems)
+
+[Shorts URL Rotater Systems](https://github.com/mehmetakifsari/shorts-url-rotarter-systems)
+
+---
+
+### WHMCS Shopier Addon
+
+WHMCS ile Shopier ödeme süreçlerini bir araya getirmek amacıyla geliştirilen ödeme entegrasyonu.
+
+[Projeyi incele](https://github.com/mehmetakifsari/whmcs-shopier-addon)
+
+---
+
+## ⚙️ Nasıl Çalışıyorum?
+
+```text
+01. Manuel süreci analiz ederim
+02. Zaman kaybını ve veri risklerini belirlerim
+03. Uygun teknoloji ve otomasyon mimarisini seçerim
+04. Süreci dijital bir iş akışına dönüştürürüm
+05. Sistemi ölçülebilir ve sürdürülebilir hâle getiririm
+```
+
+Amacım yalnızca çalışan kod yazmak değil; gerçek operasyonel problemlere uygulanabilir çözümler üretmektir.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Mehmet Akif Sarı GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 Katkı Serisi
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mehmetakifsari&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧩 İlgi Alanlarım
+
+* Süreç otomasyonu
+* Yapay zekâ destekli iş akışları
+* Self-hosted uygulamalar
+* WordPress ve içerik otomasyonu
+* Servis operasyonları için iç araçlar
+* Veri çıkarma ve doküman işleme
+* Sistem entegrasyonları
+* Docker tabanlı uygulama yönetimi
+
+---
+
+## 📫 İletişim
+
+<p align="center">
+  <a href="https://github.com/mehmetakifsari">
+    <img src="https://img.shields.io/badge/GitHub-mehmetakifsari-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Manuel işleri otomatikleştiriyor, operasyonel problemleri dijital çözümlere dönüştürüyorum.
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehmetakifsari\&style=for-the-badge\&color=0891b2)
+
+</div>
