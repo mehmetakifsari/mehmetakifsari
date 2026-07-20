@@ -114,38 +114,21 @@ Amacım yalnızca çalışan kod yazmak değil; gerçek operasyonel problemlere 
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Aktivitem
 
 <div align="center">
 
-<a href="https://github.com/mehmetakifsari">
+<a href="https://github.com/mehmetakifsari?tab=repositories">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
-    alt="Mehmet Akif Sarı GitHub İstatistikleri"
+    src="https://img.shields.io/badge/Projelerimi_İncele-GitHub_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Projelerim"
   />
 </a>
 
-<a href="https://github.com/mehmetakifsari">
+<a href="https://github.com/mehmetakifsari?tab=overview">
   <img
-    width="36%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="En Çok Kullanılan Diller"
-  />
-</a>
-
-</div>
-
----
-
-## 🔥 Katkı Serisi
-
-<div align="center">
-
-<a href="https://github.com/mehmetakifsari">
-  <img
-    src="https://streak-stats.demolab.com?user=mehmetakifsari&theme=github-dark-blue&hide_border=true&locale=tr"
-    alt="GitHub Katkı Serisi"
+    src="https://img.shields.io/badge/Katkılarımı_İncele-Contribution_Graph-0969DA?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Katkılarım"
   />
 </a>
 
