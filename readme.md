@@ -1,168 +1,246 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22d3ee&height=210&section=header&text=Mehmet%20Akif%20Sar%C4%B1&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Process%20Automation%20%E2%80%A2%20Internal%20Tools%20%E2%80%A2%20WordPress%20%E2%80%A2%20DevOps&descAlignY=60&descSize=18" width="100%" alt="header" />
+
 # Merhaba, ben Mehmet Akif Sarı 👋
 
-### Process Automation • Internal Tools • WordPress • DevOps
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Process+Automation+Developer;Internal+Tools+Builder;n8n+Workflow+Architect;WordPress+%26+DevOps+Specialist;Self-Hosted+Systems+Enthusiast;Turning+manual+work+into+digital+workflows" alt="Typing SVG" />
 
-Manuel iş süreçlerini otomasyonlara, şirket içi araçlara ve sürdürülebilir dijital sistemlere dönüştürüyorum.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Process+Automation+Developer;Internal+Tools+Builder;WordPress+%26+DevOps+Specialist;n8n+Workflow+Developer;Turning+manual+work+into+digital+workflows" alt="Typing SVG" />
+Manuel iş süreçlerini **otomasyonlara**, **şirket içi araçlara** ve **sürdürülebilir dijital sistemlere** dönüştürüyorum.
+
+<a href="https://github.com/mehmetakifsari">
+  <img src="https://img.shields.io/badge/GitHub-mehmetakifsari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mehmetakifsari&style=for-the-badge&color=0891b2&label=Profil+Goruntulenme" alt="Profile Views" />
 
 </div>
 
 ---
-
-## 👨‍💻 Hakkımda
-
-Operasyon ekiplerinin günlük iş yükünü azaltan, veri kaybı riskini önleyen ve tekrarlayan süreçleri otomatikleştiren çözümler geliştiriyorum.
-
-Özellikle aşağıdaki alanlarda çalışıyorum:
-
-* İş süreçleri ve operasyon otomasyonu
-* Şirket içi yönetim panelleri
-* WordPress tema ve eklenti geliştirme
-* n8n tabanlı iş akışları
-* Docker ve Coolify altyapıları
-* GitHub Actions ile otomatik dağıtım
-* PDF, Excel, XML ve dosya işleme otomasyonları
-* REST API ve WhatsApp entegrasyonları
-* Python ve PowerShell yardımcı araçları
-
-```text
-Manuel Süreç
-     ↓
-Süreç Analizi
-     ↓
-Otomasyon Tasarımı
-     ↓
-API / n8n / Python / PowerShell
-     ↓
-Ölçülebilir ve Sürdürülebilir Sistem
-```
-
----
-
-## 🎯 Güncel Odak Alanlarım
-
-```yaml
-name: Mehmet Akif Sarı
-location: İstanbul, Türkiye
-
-focus:
-  - Process Automation
-  - Internal Tools
-  - Business Process Optimization
-  - WordPress Development
-  - DevOps and Self-Hosted Systems
-
-currently_working_with:
-  - n8n
-  - Docker
-  - Coolify
-  - GitHub Actions
-  - WordPress
-  - Python
-  - PowerShell
-  - REST APIs
-```
-
----
-
-## 🛠️ Teknolojiler ve Araçlar
-
-### Otomasyon ve Yazılım
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,php,js,nodejs,bash" alt="Programming Technologies" />
-</p>
-
-### Web ve Veri
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,mysql,html,css,nginx,cloudflare" alt="Web Technologies" />
-</p>
-
-### DevOps ve Altyapı
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,github,vscode" alt="DevOps Technologies" />
-</p>
-
-### Sık Kullandığım Sistemler
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Coolify-Self_Hosted-6B5CF6?style=for-the-badge" alt="Coolify" />
-  <img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Automation" />
-  <img src="https://img.shields.io/badge/WhatsApp-API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
-</p>
-
----
-
-## ⚙️ Nasıl Çalışıyorum?
-
-```text
-01. Manuel süreci analiz ederim
-02. Zaman kaybını ve veri risklerini belirlerim
-03. Uygun teknoloji ve otomasyon mimarisini seçerim
-04. Süreci dijital bir iş akışına dönüştürürüm
-05. Sistemi ölçülebilir ve sürdürülebilir hâle getiririm
-```
-
-Amacım yalnızca çalışan kod yazmak değil; gerçek operasyonel problemlere uygulanabilir çözümler üretmektir.
-
----
-
-## 📊 GitHub Aktivitem
 
 <div align="center">
 
-<a href="https://github.com/mehmetakifsari?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Projelerimi_İncele-GitHub_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub Projelerim"
-  />
-</a>
+## 🧭 whoami
 
-<a href="https://github.com/mehmetakifsari?tab=overview">
-  <img
-    src="https://img.shields.io/badge/Katkılarımı_İncele-Contribution_Graph-0969DA?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub Katkılarım"
-  />
-</a>
+<table align="center">
+<tr><td>
+
+```yaml
+name:      Mehmet Akif Sarı
+role:      Process Automation & Internal Tools Developer
+location:  İstanbul, Türkiye
+motto:     "Amaç çalışan kod değil, operasyonel probleme uygulanabilir çözüm."
+
+focus:
+  - İş süreçleri ve operasyon otomasyonu
+  - Şirket içi yönetim panelleri
+  - n8n tabanlı iş akışları
+  - Self-hosted altyapı (Coolify)
+  - WordPress ve içerik otomasyonu
+
+stack:
+  runtime:   [Python, PowerShell, Node.js, PHP, Bash]
+  web:       [WordPress, MySQL, Nginx, Cloudflare]
+  devops:    [Docker, Coolify, GitHub Actions, Linux]
+  workflow:  [n8n, REST API, Evolution API, PostgreSQL]
+```
+
+</td></tr>
+</table>
 
 </div>
 
 ---
 
-## 🧩 İlgi Alanlarım
+<div align="center">
 
-* Süreç otomasyonu
-* Yapay zekâ destekli iş akışları
-* Self-hosted uygulamalar
-* WordPress ve içerik otomasyonu
-* Servis operasyonları için iç araçlar
-* Veri çıkarma ve doküman işleme
-* Sistem entegrasyonları
-* Docker tabanlı uygulama yönetimi
+## 🛠️ Teknolojiler & Araçlar
+
+**Otomasyon & Yazılım**
+
+<img src="https://skillicons.dev/icons?i=python,powershell,php,js,nodejs,bash" alt="Programming" />
+
+**Web & Veri**
+
+<img src="https://skillicons.dev/icons?i=wordpress,mysql,html,css,nginx,cloudflare" alt="Web" />
+
+**DevOps & Altyapı**
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,github,vscode" alt="DevOps" />
+
+**Sık Kullandığım Sistemler**
+
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Coolify-Self_Hosted-6B5CF6?style=for-the-badge" alt="Coolify" />
+<img src="https://img.shields.io/badge/Evolution_API-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evolution API" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Mailcow-Mail_Server-2EA44F?style=for-the-badge" alt="Mailcow" />
+<img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" alt="REST API" />
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🚀 Öne Çıkan Projeler
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 AMR Danışmanlık — SEO İçerik Motoru
+n8n AI agent + Tavily araştırma + WordPress otomatik yayın. Çok sağlayıcılı görsel üretimi ve IndexNow ile 200+ makalelik içerik planı.
+
+`n8n` · `AI Agent` · `WordPress` · `SEO`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Altun Apartmanı — Ödeme & Bildirim Sistemi
+Ödeme SMS'lerini ayrıştırıp Google Sheets'e loglayan, Evolution API ile sakinlere WhatsApp bildirimi gönderen ve zamanlanmış hatırlatmalar üreten birleşik iş akışı.
+
+`n8n` · `Evolution API` · `Google Sheets`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ visupanel.com — Self-Hosted Platform
+Coolify üzerinde n8n, Evolution API, Mailcow ve PostgreSQL barındıran, tüm otomasyonların üzerinde koştuğu kendi kendine barındırılan altyapı.
+
+`Coolify` · `Docker` · `Mailcow` · `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 IZE / Garanti Otomasyonu
+Uluslararası araç onarım dosyalarında PDF/XML veri çıkarma ve Türkçe e-posta şablonu üretimi ile manuel dokümantasyon sürecinin dijitalleştirilmesi.
+
+`Python` · `XML` · `PDF` · `Doküman İşleme`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛽ yakıt.visupanel.com — Fiş Takip
+Next.js arayüzü, OpenAI Vision ile fiş okuma ve Google Sheets'e otomatik kayıt yapan yakıt takip sistemi.
+
+`Next.js` · `OpenAI Vision` · `n8n`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Arrows Puzzle Escape
+Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — koddan oyuna uzanan üretim tarafı.
+
+`Unity` · `C#` · `Android`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧬 Otomasyon Mimarisi
+
+<table align="center">
+<tr><td>
+
+```text
+      📥 KAYNAKLAR                ⚙️  MOTOR                📤 ÇIKTILAR
+  ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
+  │  SMS / WhatsApp   │      │                  │      │  Google Sheets   │
+  │  PDF / XML / XLSX │ ───▶ │   n8n · Python   │ ───▶ │  Evolution API   │
+  │  Web & REST API   │      │   · PowerShell   │      │  WordPress       │
+  └──────────────────┘      └──────────────────┘      └──────────────────┘
+        Girdi                 Analiz + Akış               Aksiyon
+```
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Nasıl Çalışıyorum?
+
+<table align="center">
+<tr><td>
+
+```text
+01. Manuel süreci ve gizli zaman kayıplarını analiz ederim
+02. Veri kaybı ve hata risklerini haritalarım
+03. Uygun teknoloji ve otomasyon mimarisini seçerim
+04. Süreci ölçülebilir bir dijital iş akışına dönüştürürüm
+05. Sistemi sürdürülebilir ve bakımı kolay hâle getiririm
+```
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub İstatistiklerim
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="top langs" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifsari&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetakifsari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=ffffff" alt="activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetakifsari&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎧 Kod Dışında
+
+Klavyeden kalktığımda; **Türk tasavvuf müziği** (ilahi, ney, makam) dinlemeyi,
+**içerik üretimini** ve yeni otomasyon fikirlerini kurcalamayı seviyorum.
+
+`Süreç Otomasyonu` · `Yapay Zekâ Destekli İş Akışları` · `Self-Hosted Uygulamalar` · `İçerik Otomasyonu` · `Doküman İşleme`
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📫 İletişim
 
-<p align="center">
-  <a href="https://github.com/mehmetakifsari">
-    <img src="https://img.shields.io/badge/GitHub-mehmetakifsari-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<a href="https://github.com/mehmetakifsari">
+  <img src="https://img.shields.io/badge/GitHub-mehmetakifsari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
----
-
-<div align="center">
+<br/><br/>
 
 ### Manuel işleri otomatikleştiriyor, operasyonel problemleri dijital çözümlere dönüştürüyorum.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehmetakifsari\&style=for-the-badge\&color=0891b2)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0891b2&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
