@@ -98,8 +98,8 @@ n8n AI agent + Tavily araştırma + WordPress otomatik yayın. Çok sağlayıcı
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Altun Apartmanı — Ödeme & Bildirim Sistemi
-Ödeme SMS'lerini ayrıştırıp Google Sheets'e loglayan, Evolution API ile sakinlere WhatsApp bildirimi gönderen ve zamanlanmış hatırlatmalar üreten birleşik iş akışı.
+### 🏢 Apartman Yönetim — Ödeme & Bildirim Sistemi
+Ödeme SMS'lerini ayrıştırıp Google Sheets'e loglayan, Evolution API ile sakinlere WhatsApp bildirimi gönderen; bölünmüş ödeme mantığı ve ayın 5/10/15'inde zamanlanmış hatırlatmalar içeren birleşik apartman yönetim iş akışı.
 
 `n8n` · `Evolution API` · `Google Sheets`
 
@@ -116,23 +116,33 @@ Coolify üzerinde n8n, Evolution API, Mailcow ve PostgreSQL barındıran, tüm o
 </td>
 <td width="50%" valign="top">
 
-### 🚚 IZE / Garanti Otomasyonu
-Uluslararası araç onarım dosyalarında PDF/XML veri çıkarma ve Türkçe e-posta şablonu üretimi ile manuel dokümantasyon sürecinin dijitalleştirilmesi.
+### 🚚 ize.visupanel.com — IZE Garanti Dosya İşleme
+Uluslararası araç onarım (IZE) dosyalarından PDF veri çıkarımı ve Türkçe e-posta şablonu üretimi ile manuel dokümantasyon sürecini dijitalleştiren portal.
 
-`Python` · `XML` · `PDF` · `Doküman İşleme`
+`Python` · `PDF` · `Doküman İşleme`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⛽ yakıt.visupanel.com — Fiş Takip
-Next.js arayüzü, OpenAI Vision ile fiş okuma ve Google Sheets'e otomatik kayıt yapan yakıt takip sistemi.
+### 📑 claims.visupanel.com — Garanti Talep Yönetimi
+Garanti taleplerinin takip edildiği web paneli; iOS uygulamasını birebir yansıtan Kotlin WebView tabanlı Android istemcisiyle mobil erişim.
 
-`Next.js` · `OpenAI Vision` · `n8n`
+`Web Panel` · `Kotlin` · `Android` · `iOS`
 
 </td>
 <td width="50%" valign="top">
+
+### 🔁 xml.visupanel.com — XML / HTML Dönüştürücü
+Volvo IZE garanti taleplerini işlemek için XML ↔ HTML dönüşümü yapan, dosya işleme akışını hızlandıran dönüştürücü araç.
+
+`XML` · `HTML` · `Dosya İşleme`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ### 🎮 Arrows Puzzle Escape
 Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — koddan oyuna uzanan üretim tarafı.
