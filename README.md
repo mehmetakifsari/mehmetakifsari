@@ -100,58 +100,6 @@ currently_working_with:
 
 ---
 
-## 🚀 Öne Çıkan Projeler
-
-### Branch Management Image Upload System
-
-Şube ve servis operasyonlarında fotoğraf, video ve diğer iş emri verilerinin merkezi olarak yönetilmesini sağlayan dosya yükleme sistemi.
-
-[Projeyi incele](https://github.com/mehmetakifsari/branch-management-image-upload-system)
-
----
-
-### Analysis of Fuel Receipts
-
-Akaryakıt fişlerinden veri çıkarılması, sınıflandırılması ve analiz edilmesi amacıyla geliştirilen otomasyon projesi.
-
-[Projeyi incele](https://github.com/mehmetakifsari/Analysis-of-fuel-receipts)
-
----
-
-### YouTube Shorts Pipeline
-
-Kısa video içeriklerinin hazırlanması, işlenmesi ve yayın süreçlerinin otomatikleştirilmesine yönelik içerik üretim hattı.
-
-[Projeyi incele](https://github.com/mehmetakifsari/youtube-shorts-pipeline)
-
----
-
-### IP Log Summary
-
-Sunucu ve uygulama loglarındaki IP verilerini analiz ederek daha okunabilir özetler oluşturan yardımcı araç.
-
-[Projeyi incele](https://github.com/mehmetakifsari/ip-log-summary)
-
----
-
-### URL Rotation Systems
-
-Bağlantıların belirlenen kurallara göre yönlendirilmesi ve dönüşümlü olarak dağıtılması için geliştirilen URL yönetim sistemleri.
-
-[URL Rotater Systems](https://github.com/mehmetakifsari/url-rotater-systems)
-
-[Shorts URL Rotater Systems](https://github.com/mehmetakifsari/shorts-url-rotarter-systems)
-
----
-
-### WHMCS Shopier Addon
-
-WHMCS ile Shopier ödeme süreçlerini bir araya getirmek amacıyla geliştirilen ödeme entegrasyonu.
-
-[Projeyi incele](https://github.com/mehmetakifsari/whmcs-shopier-addon)
-
----
-
 ## ⚙️ Nasıl Çalışıyorum?
 
 ```text
