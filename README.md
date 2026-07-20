@@ -118,9 +118,21 @@ Amacım yalnızca çalışan kod yazmak değil; gerçek operasyonel problemlere 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Mehmet Akif Sarı GitHub Stats" />
+<a href="https://github.com/mehmetakifsari">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=mehmetakifsari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
+    alt="Mehmet Akif Sarı GitHub İstatistikleri"
+  />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<a href="https://github.com/mehmetakifsari">
+  <img
+    width="36%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifsari&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="En Çok Kullanılan Diller"
+  />
+</a>
 
 </div>
 
@@ -130,7 +142,12 @@ Amacım yalnızca çalışan kod yazmak değil; gerçek operasyonel problemlere 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mehmetakifsari&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
+<a href="https://github.com/mehmetakifsari">
+  <img
+    src="https://streak-stats.demolab.com?user=mehmetakifsari&theme=github-dark-blue&hide_border=true&locale=tr"
+    alt="GitHub Katkı Serisi"
+  />
+</a>
 
 </div>
 
