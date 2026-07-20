@@ -233,10 +233,6 @@ Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — kod
 
 <br/>
 
-<img width="58%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="languages" />
-
-<br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetakifsari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=ffffff" alt="activity graph" />
 
 </div>
