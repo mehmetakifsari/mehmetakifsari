@@ -162,19 +162,41 @@ Unity ile geliştirilen, Google Play hedefli Android mobil bulmaca oyunu — kod
 ## 🧬 Otomasyon Mimarisi
 
 <table align="center">
-<tr><td>
-
-```text
-      📥 KAYNAKLAR                ⚙️  MOTOR                📤 ÇIKTILAR
-  ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
-  │  SMS / WhatsApp   │      │                  │      │  Google Sheets   │
-  │  PDF / XML / XLSX │ ───▶ │   n8n · Python   │ ───▶ │  Evolution API   │
-  │  Web & REST API   │      │   · PowerShell   │      │  WordPress       │
-  └──────────────────┘      └──────────────────┘      └──────────────────┘
-        Girdi                 Analiz + Akış               Aksiyon
-```
-
-</td></tr>
+<tr>
+<td align="center" valign="top">
+<b>📥 KAYNAKLAR</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/SMS%20%2F%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="SMS / WhatsApp" /><br/>
+<img src="https://img.shields.io/badge/PDF%20%C2%B7%20XML%20%C2%B7%20XLSX-EF4444?style=for-the-badge" alt="PDF XML XLSX" /><br/>
+<img src="https://img.shields.io/badge/Web%20%26%20REST%20API-009688?style=for-the-badge" alt="Web REST API" />
+<br/><br/>
+<sub>Girdi</sub>
+</td>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/%E2%9E%9C-22D3EE?style=for-the-badge" alt="akis" />
+</td>
+<td align="center" valign="top">
+<b>⚙️ MOTOR</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<br/><br/>
+<sub>Analiz + Akış</sub>
+</td>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/%E2%9E%9C-22D3EE?style=for-the-badge" alt="akis" />
+</td>
+<td align="center" valign="top">
+<b>📤 ÇIKTILAR</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" /><br/>
+<img src="https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evolution API" /><br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<br/><br/>
+<sub>Aksiyon</sub>
+</td>
+</tr>
 </table>
 
 </div>
